@@ -45,7 +45,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Miguel</code>, tenho 19 anos
+<i><b>Olá</b> :wave:, me chamo <code>Miguel</code>, tenho 19 anos
 </div>
 
 -----
