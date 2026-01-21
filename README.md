@@ -7,7 +7,7 @@
 
 <p align="center">
   🎓 Sou técnico em Automação Industrial pelo IFMG<br>
-  🧠 Possuo Experiência: <strong>C</strong> - <strong>Java</strong> - <strong>Python</strong> - <strong>Mysql / Microsoft SQL Server</strong> - <strong>Arduino</strong><br><br>
+  🧠 Possuo Experiência: <strong>C</strong> - <strong>Java</strong> - <strong>Python</strong> - <strong>Mysql / Microsoft SQL Server</strong> - <strong>Arduino</strong> - <strong>HTML</strong> - <strong>CSS</strong><br><br>
   📖 Sempre tentando aprender algo novo
 </p>
 
