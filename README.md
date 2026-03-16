@@ -10,7 +10,5 @@
   🧠 Possuo Experiência: <strong>C</strong> - <strong>Java</strong> - <strong>Python</strong> - <strong>Mysql / Microsoft SQL Server</strong> - <strong>Arduino</strong> - <strong>HTML</strong> - <strong>CSS</strong><br><br>
   📖 Sempre tentando aprender algo novo
 </p>
-
-<br>
 <hr>
 <h4 align="center"> Contato: miguelribeiromuniz.contato@gmail.com </h4>
